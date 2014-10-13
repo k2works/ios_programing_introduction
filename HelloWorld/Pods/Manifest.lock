@@ -1,0 +1,10 @@
+PODS:
+  - DCIntrospect (0.0.2)
+
+DEPENDENCIES:
+  - DCIntrospect
+
+SPEC CHECKSUMS:
+  DCIntrospect: 0b013d593593fa70169bc876eeed0579c8a1cc66
+
+COCOAPODS: 0.34.1
