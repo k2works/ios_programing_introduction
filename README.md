@@ -105,6 +105,11 @@ _HelloWorld/HelloWorld/HelloWorld-Prefix.pch_
 #import <Foundation/Foundation.h>
 #import "DCIntrospect.h"
 ```
+
+あとはBuild Settingsから
+Apple LLVM 6.0 - Languageの
+Prefix Headerにパスを追加します。
+
 ### AppDelegate.mの修正
 _HelloWorld/HelloWorld/AppDelegate.m_
 
